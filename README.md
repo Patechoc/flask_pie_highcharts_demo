@@ -14,7 +14,7 @@ poetry install
 poetry shell
 python -m app
 ```
-   
+
 Open http://localhost:8080/ in your favorite browser!
 
 
